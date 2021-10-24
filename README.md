@@ -1,5 +1,4 @@
 # Face-recognition
-Zeranoe FFmpeg Builds <http://ffmpeg.zeranoe.com/builds/>
 
 Build: ffmpeg-20200306-cfd9a65-win32-shared
 
